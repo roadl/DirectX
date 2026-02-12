@@ -14,9 +14,6 @@ https://drive.google.com/drive/u/3/folders/1ObF9PwqzzH-GRdHc3VastbHBgJu4-c8F
   - Top View, Quarter View
   - 3D Images to 2D game
 
-## Controls
-- 각 게임 설명 참고
-
 ## Build & Run
 - Realease 폴더 안의 .exe 파일 실행
 - Docker
@@ -50,6 +47,15 @@ https://drive.google.com/drive/u/3/folders/1ObF9PwqzzH-GRdHc3VastbHBgJu4-c8F
           dxguid.lib
           winmm.lib
           ```
+
+## Controls
+- 게임 내 설명 참고
+
+## Images
+![BattleShip](images/BattleShip.png)
+![ActionShooting](images/ActionShooting.png)
+![Shooting](images/Shooting.png)
+![Fortress](images/Fortress.png)
 
 ## Development Enviroment
 - OS: Microsoft Windows 10 Home (10.0.19045)
